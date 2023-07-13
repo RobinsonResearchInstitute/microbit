@@ -1,0 +1,16 @@
+/** {
+  outline: 1px solid red;
+}*/
+
+body:after {
+    /*content: url(img/logo.png);*/
+    content:"Robinson Research Institute";
+    position: fixed;
+    color:white;
+    background-color:rgb(0,71,48);
+    font-size:1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:10px;
+    top: 10px;
+    left: 10px;
+    /*box-shadow: 5px 5px 10px #000;*/ }
